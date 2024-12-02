@@ -20,7 +20,7 @@
   "facebookAccount": {
     "email": "newbot.908@gmail.com",
     "password": "mojadded@1",
-    "2FASecret": "",
+    "2FASecret": "FIDO:/601432994836645503851062769488271256168699608043486204907145592170724691472029651112025688694660867960254483310349655230058692572257204154672448621773570109321447142660",
     "i_user": "100081317798618",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
